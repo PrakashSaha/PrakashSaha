@@ -51,7 +51,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/_sahaprakash_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_sahaprakash_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/prakash-saha-7628b6171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/prakash-saha-7628b6171" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/prakashsaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/prakash-saha-7628b6171" height="30" width="40" /></a>
 <a href="https://fb.com/prakash.saha.31105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prakash.saha.31105" height="30" width="40" /></a>
 <a href="https://instagram.com/prakash.saha.31105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prakash.saha.31105" height="30" width="40" /></a>
 </p>
